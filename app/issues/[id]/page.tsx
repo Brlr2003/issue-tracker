@@ -40,7 +40,6 @@ const IssueDetailPage = async ({ params }: Props) => {
         </Box>
       )}
     </Grid>
-    // sahjhas
   );
 };
 
